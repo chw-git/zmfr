@@ -13,3 +13,6 @@ Or the same example in form of a test:
 ```
 zig test font.zig -l freetype -l c
 ```
+
+
+The example font is copied from https://github.com/bluescan/proggyfonts and licenced under MIT
